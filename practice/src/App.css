@@ -1,0 +1,22 @@
+.prof {
+    display: flex;
+    justify-content: center;
+}
+
+.pro1 {
+    border-radius: 10px;
+    border: 1px;
+    color: black;
+    border-style: solid;
+    display: flex;
+    padding: 10px;
+}
+
+.pro2 {
+    border-radius: 10px;
+    border: 1px;
+    color: black;
+    border-style: solid;
+    display: flex;
+    padding: 10px;
+}

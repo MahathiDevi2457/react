@@ -1,0 +1,19 @@
+.card{
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.inStock{
+    text-align: center;
+    color:green;
+    font-style: oblique;
+}
+.noStock{
+    text-align: center;
+    color:red;
+    font-style:oblique ;
+}
+.price{
+    color: blue;
+}
